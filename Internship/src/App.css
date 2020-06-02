@@ -1,0 +1,75 @@
+.center {
+	padding:5px;
+	margin-left:185px;
+	width:90px;
+	height:75px;
+    
+}
+
+
+.ul{
+	list-style-type:none;
+	margin:0;
+	padding:-1px;
+	overflow:hidden;
+	background-color:#800080;
+	
+}
+
+.li {
+    float: left;
+}
+
+.li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:22px 24px;
+	text-decoration:none;
+}
+
+.li a:hover{
+	background-color:#9400D3;
+}
+
+.a {
+	color:white;
+	
+}
+
+.button{
+	background-color:#800080;
+	border:none;
+	color:white;
+	
+	text-align:center;
+	text-decoration:none;
+	display: inline-block;
+	font-size:20px;
+	margin-left:  670px;
+	transition-duration: 0.4s;
+	cursor: pointer;
+
+}
+
+.button1 {
+  background-color: white; 
+  color: black;
+  border:2px solid black; 
+  
+}
+
+.button1:hover {
+  background-color: #800080;
+  color: white;
+}
+
+.buttonLogin {
+	padding : 22px 24px;
+	margin-left:1000px;
+}
+
+
+.Logo {
+    background-image: url(/Users/vaibhav/navbar_react/logo.png);
+  }
