@@ -1,0 +1,21 @@
+.p{
+    font-weight: bolder;
+    text-align: left;
+    font-size: x-large;
+    padding:20px;
+
+}
+.price_details_container{
+    height: 250px;
+    width: 420px;
+    border: none;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);   
+
+}
+.Price_table{
+    margin-top: -40px;
+}
+.Safe_p{
+    color: gray;
+    margin-top: 20px;
+}

@@ -1,0 +1,44 @@
+.p{
+    font-weight: bolder;
+    text-align: left;
+    font-size: x-large;
+    padding:20px;
+
+}
+.Product_Card_container{
+    height: 350px;
+    width: 800px;
+    border: none;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);   
+
+}
+/* .Product_Card_table{
+    
+   
+    
+} */
+
+.Image_Container{
+    width: 125px;
+    height: 175px;
+    
+}
+
+.Product_Card_td{
+  
+    text-align: left;
+    font-size: 12px;
+    
+}
+.Product_Card_span{
+   font-size: 10px;
+   padding-right: 10px;
+   
+}
+.Product_Card_quantity{
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    font-size: 15px;
+
+}

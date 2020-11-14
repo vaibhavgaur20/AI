@@ -1,0 +1,30 @@
+.p{
+    font-weight: bolder;
+   
+    font-size: xx-large;
+    padding:20px;
+
+}
+.details_container{
+    height: 650px;
+    width: 650px;
+    border: none;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+   
+
+   
+
+}
+.details{
+    font-size: 17px;
+    padding-left:20px;
+    margin-right: 50px;
+    display: flex;
+}
+.product_detail_table{
+margin-top: -20px;
+width: 680px;
+
+}
+
+

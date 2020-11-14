@@ -1,0 +1,21 @@
+
+.container{
+    height: 500px;
+    width: 500px;
+    border: none;
+    
+}
+
+td{
+   width:700px;  
+}
+.td_image{
+    padding-left: 80px;
+    
+}
+.review{
+    margin-left: 80px;
+}
+table{
+    margin-top: 80px;
+}
